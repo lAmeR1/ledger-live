@@ -385,7 +385,9 @@
     "src/families/aptos/react.ts",
     "src/families/aptos/staking.ts",
     "src/families/aptos/types.ts",
-    "src/families/aptos/utils.ts"
+    "src/families/aptos/utils.ts",
+    "src/families/kaspa/react.ts",
+    "src/families/kaspa/types.ts"
   ],
   "ignoreUnused": [
     "@dfinity/agent",
